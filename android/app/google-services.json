@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870473191267",
+    "project_id": "imuvi-test",
+    "storage_bucket": "imuvi-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870473191267:android:03f00d515c213ccb20cd56",
+        "android_client_info": {
+          "package_name": "com.aff.imuvi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAmteoqcENoEeHbLTU8q2-uHdl7u558JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
